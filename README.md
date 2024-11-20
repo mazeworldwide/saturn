@@ -1,6 +1,6 @@
-**Status:** Archive (code is provided as-is, no updates expected)
 
-# gpt-2
+## <img src="https://i.hizliresim.com/hgf705d.jpg"/>
+
 
 Code and models from the paper ["Language Models are Unsupervised Multitask Learners"](https://d4mucfpksywv.cloudfront.net/better-language-models/language-models.pdf).
 
